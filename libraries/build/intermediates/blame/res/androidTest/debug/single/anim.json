@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\astudioWorkSpace\\S01E03\\libraries\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    }
+]
